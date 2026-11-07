@@ -1,10 +1,12 @@
 # HRT branding
 
-Active logo: `public/hrt-logo-v4.png`. Active favicon and touch icon: `public/hrt-favicon-v4.png`. Both are transparent PNG artwork created with the built-in image generation tool. The supplied JPEG originals and previous logo versions are retained for reference.
+Active logo: `public/hrt-logo-v5.png`. Active favicon and touch icon: `public/hrt-favicon-v5.png`. Both are transparent PNG artwork created with the built-in image generation tool. The supplied JPEG originals and previous logo versions are retained for reference.
 
 The header and footer reference the logo directly. `index.html` references the favicon. Responsive logo sizing is in `src/style.css`.
 
 ## Generation prompts
+
+Logo revision v5 (built-in image generation edit): Refine v4 while preserving every existing heart element, exact company name, H leaf crossbar, R flame and solar-panel T. Make the top green leaf more gracefully curved, the full heart contour rounder and smoother, and reduce HRT stroke thickness by roughly 20 percent for medium/semibold lettering. Preserve brand colours, transparent background and horizontal layout; prioritize clean edges and readable typography. Matching favicon prompt: extract the same refined heart onto a transparent square canvas with safe padding, keeping all contents and removing all text.
 
 Logo revision v4 (built-in image generation edit): Combine the v2 heart contents with the v3 additions. Retain the farmer, sprout, leaves, lightning bolt, two connected biogas cylinders and bottom flame. Also include water-flow curves, rising sun and one wind turbine with compact simplified shapes and clear spacing. Keep the H leaf, R flame and solar-panel T, exact company name and transparent horizontal lockup. Matching favicon prompt: extract only that complete combined heart emblem, retaining all its elements, centered on a transparent square canvas without letters or company text.
 
