@@ -9,10 +9,10 @@ export default function Footer() {
         <Link to="/" className="brand">
           <img
             className="brand-logo"
-            src="/hrt-logo-v6.png"
+            src="/hrt-logo-v7.png"
             alt="Holistic Renewable Technologies"
-            width="2100"
-            height="749"
+            width="2098"
+            height="750"
           />
         </Link>
         <p>

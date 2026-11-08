@@ -1,10 +1,12 @@
 # HRT branding
 
-Active logo: `public/hrt-logo-v6.png`. Active favicon and touch icon: `public/hrt-favicon-v6.png`. Both are transparent PNG artwork created with the built-in image generation tool. The supplied JPEG originals and previous logo versions are retained for reference.
+Active logo: `public/hrt-logo-v7.png`. Active favicon and touch icon: `public/hrt-favicon-v7.png`. Both are transparent PNG artwork created with the built-in image generation tool. The supplied JPEG originals and previous logo versions are retained for reference.
 
 The header and footer reference the logo directly. `index.html` references the favicon. Responsive logo sizing is in `src/style.css`.
 
 ## Generation prompts
+
+Logo revision v7 (built-in image generation edit): Round both green and orange upper heart curves using the client reference, restore the orange R with a white flame and orange inner teardrop from the supplied website screenshot, and divide the blue solar-panel T into 18 cells (six columns by three rows) with white grid lines. Retain the H leaf, heart contents, company name and transparent horizontal layout. Matching v7 favicon extracts the rounded heart emblem onto a transparent square canvas, retaining all symbols and omitting lettering.
 
 Logo revision v6 (built-in image generation edit): Use the client's original heart photograph as a reference for the top green side. Replace v5's single broad leaf with layered sweeping dark/fresh-green leaf ribbons, curving inward toward the heart cleft with transparent channels and restrained leaf/drop tips. Preserve every existing heart symbol, thinner HRT lettering, leaf H, flame R, solar-panel T, exact company name, palette and transparent layout. Matching favicon prompt: extract only that revised heart on a transparent square canvas, retaining the layered top leaves and all symbols with safe padding.
 
